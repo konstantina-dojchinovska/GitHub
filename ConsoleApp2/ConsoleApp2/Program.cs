@@ -11,6 +11,8 @@ namespace ConsoleApp2
             Console.WriteLine("test 2 1111");
             Console.WriteLine("test 2 Test 1 Test 12");
             Console.WriteLine("Test 3");
+
+            global::System.Console.WriteLine("test4");
         }
     }
 }
