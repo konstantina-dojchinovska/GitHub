@@ -13,6 +13,8 @@ namespace ConsoleApp2
             Console.WriteLine("Test 3");
 
             global::System.Console.WriteLine("test4");
+
+            global::System.Console.WriteLine("B1 commit");
         }
     }
 }
