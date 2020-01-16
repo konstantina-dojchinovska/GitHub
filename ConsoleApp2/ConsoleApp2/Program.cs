@@ -14,6 +14,8 @@ namespace ConsoleApp2
 
             global::System.Console.WriteLine("test4");
 
+            global::System.Console.WriteLine("B1 commit");
+
             global::System.Console.WriteLine("Master Commit!");
         }
     }
